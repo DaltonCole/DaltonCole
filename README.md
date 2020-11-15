@@ -8,15 +8,21 @@
   <li>Anything that involves a computer thinking harder than I do</li>
 </ul>
 
+### 🔭 I'm currently working on:
+<ul>
+  <li>Research! Getting that PhD!</li>
+</ul>
+
 ### Connect with me
 
 [<img align="left" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daltoncole1/)
 [<img align="left" alt="Personal Site" src="https://img.shields.io/badge/Personal%20Site-%2300ffff.svg?&style=for-the-badge" />](https://www.daltoncole.com/)
+[📫](https://www.daltoncole.com/contact/)
 
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonCole&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonCole&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Dalton's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaltonCole&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
