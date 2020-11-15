@@ -13,7 +13,8 @@
 [<img align="left" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daltoncole1/)
 [<img align="left" alt="Personal Site" src="https://img.shields.io/badge/Personal%20Site-%2300ffff.svg?&style=for-the-badge" />](https://www.daltoncole.com/)
 
-<br/>
+<br>
+<br>
 
 [![Dalton's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaltonCole&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
