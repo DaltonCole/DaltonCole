@@ -16,10 +16,9 @@
 <br>
 <br>
 
-[![Dalton's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaltonCole&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonCole&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Dalton's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaltonCole&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DaltonCole/DaltonCole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
