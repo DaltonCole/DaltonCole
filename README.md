@@ -13,7 +13,7 @@
   <li>Research! Getting that PhD!</li>
 </ul>
 
-### Connect with me
+### Connect with me:
 
 [<img align="left" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daltoncole1/)
 [<img align="left" alt="Personal Site" src="https://img.shields.io/badge/daltoncole.com-%2300ffff.svg?&style=for-the-badge" />](https://www.daltoncole.com/)
